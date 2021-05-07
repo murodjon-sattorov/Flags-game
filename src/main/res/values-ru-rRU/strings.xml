@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mantiqiy savol javoblar</string>
+    <string name="correct_answer">Правильний ответ</string>
+    <string name="incorrect_answer">Неправильний ответ</string>
+    <string name="your_answer">Ваш ответ: </string>
+    <string name="true_answer">Верный ответ: </string>
+</resources>

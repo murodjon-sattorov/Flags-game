@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mantiqiy savol javoblar</string>
+    <string name="correct_answer">Correct answer</string>
+    <string name="incorrect_answer">Incorrect answer</string>
+    <string name="your_answer">Your answer: </string>
+    <string name="true_answer">True answer: </string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mantiqiy savol javoblar</string>
+    <string name="correct_answer">Javob to\'g\'ri</string>
+    <string name="incorrect_answer">Javob noto\'g\'ri</string>
+    <string name="your_answer">Sizning javobinggiz: </string>
+    <string name="true_answer">To\'g\'ri javob: </string>
+</resources>
